@@ -1,0 +1,5 @@
+name: HelloWorld
+description: This is my Hello World plugin
+version: 0.0.3
+main: helloWorld\Main
+api: 1.2.0
